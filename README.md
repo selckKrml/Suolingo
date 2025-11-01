@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 Talking Avatar App
 
 React Native + Expo kullanarak D-ID API ile konuşan avatar uygulaması.
@@ -129,3 +130,6 @@ Pull request'ler kabul edilir. Büyük değişiklikler için lütfen önce bir i
 **Geliştirici:** AI Avatar Team
 **Versiyon:** 1.0.0
 
+=======
+# Suolingo
+>>>>>>> 85429604029c69e627956fbb38e351c5f9b05e65
